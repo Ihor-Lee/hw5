@@ -17,7 +17,7 @@
     --bg-dark-color: #2e2f42;
     --bg-light-color: #f4f4fd;
     --accent-color: #4d5ae5;
-    --hover-focus-color: #ffffff    ;
+    --hover-focus-color: #404bbf;
     --portfolio-btn-color: #e7e9fc;
     /* Other */
     --indent: 24px;
@@ -1430,7 +1430,8 @@ button {
 }
 
 .modal-close-btn:hover,
-.modal-close-btn:focus {
+.modal-close-btn:focus 
+{
     background-color: var(--hover-focus-color);
     border: none;
     fill: var(--white-color);
