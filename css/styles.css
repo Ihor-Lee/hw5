@@ -1432,7 +1432,7 @@ button {
 .modal-close-btn:hover,
 .modal-close-btn:focus 
 {
-     background-color: var(--hover-focus-color);
+     background-color: rgba(46, 47, 66, 0.4);;
       border: none;
       fill: var(--white-color);
 }
