@@ -11,13 +11,13 @@
     /* Color */
     --main-text-color: #2e2f42;
     --light-color: #434455;
-    --white-color: #F4F4FD;
+    --white-color: #ffffff;
     --secondary-text-color: #f4f4fd;
     --icons-color: #8e8f99;
     --bg-dark-color: #2e2f42;
     --bg-light-color: #f4f4fd;
     --accent-color: #4d5ae5;
-    --hover-focus-color: #404BBF;
+    --hover-focus-color: #404bbf;
     --portfolio-btn-color: #e7e9fc;
     /* Other */
     --indent: 24px;
@@ -1432,9 +1432,9 @@ button {
 .modal-close-btn:hover,
 .modal-close-btn:focus 
 {
-    background-color: var(--hover-focus-color);
-    border: border: 1px solid var(--hover-focus-color);
-    fill: var(--white-color);
+     background-color: var(--hover-focus-color);
+      border: none;
+      fill: var(--white-color);
 }
 
 .modal-close-icon {
