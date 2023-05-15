@@ -1433,7 +1433,7 @@ button {
 .modal-close-btn:focus 
 {
     background-color: var(--hover-focus-color);
-    border: none;
+    border: border: 1px solid var(--hover-focus-color);
     fill: var(--white-color);
 }
 
